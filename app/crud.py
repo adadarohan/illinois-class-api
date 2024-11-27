@@ -1,0 +1,1 @@
+# Crud proccesces for the DB (Get all classes/sections, get section data etc)

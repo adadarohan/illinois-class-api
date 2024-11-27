@@ -1,0 +1,1 @@
+# API Key validation (for calling the ingestion function (which pulls this sem data with routes to update rate my prof etc))
